@@ -1,0 +1,11 @@
+[
+  {
+    "username": "emin",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "age": 12,
+    "parentEmail": "eminkrkut@gmail.com",
+    "parentConsent": true,
+    "id": "5f6183f769960c62d355411baa04e23f",
+    "createdAt": "2025-12-06T15:28:11.488Z"
+  }
+]
